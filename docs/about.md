@@ -31,4 +31,4 @@ From old school on-prem Windows and Linux systems through to cloud services, rel
 
 ## Evidence based advice ##
 
-The best decisions are based on a combination of evaluating the data and deciding when to confirm theoretical expectations. If you need to conduct a research spike to de-risk a project or feature consider Apex Arcana either in scoping the work or fully outsourcing it. Setting up a test and exploring the real behaviour of complex systems is sometimes the best way to minimise costly and embarrasing failures which so often come near the end of complex data and IT stretegic implementations. 
+The best decisions are based on a combination of evaluating the data and deciding when to confirm theoretical expectations. If you need to conduct a research spike to de-risk a project or feature consider Apex Arcana either in scoping the work or fully outsourcing it. Setting up a test and exploring the real behaviour of complex systems is sometimes the best way to minimise costly and embarrasing failures which so often come near the end of complex data and IT stretegic implementations.
