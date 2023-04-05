@@ -7,7 +7,7 @@ description: 'Data science and AI with an emphasis on integration, scale and hum
 # url: "http://arcana.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-google_analytics_id: ""
+google_analytics_id: "G-DML1QM0XS9"
 
 homepage:
   show_call_box: true
