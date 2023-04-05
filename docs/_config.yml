@@ -33,6 +33,7 @@ url: "http://arcana.com.au" # the base hostname & protocol for your site, e.g. h
 remote_theme: zerostaticthemes/jekyll-serif-theme
 plugins:
   - jekyll-feed
+  - jekyll-environment-variables
 
 # Exclude from processing.
 # The following items will not be processed, by default.
