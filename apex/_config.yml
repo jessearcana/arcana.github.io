@@ -30,7 +30,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://arcana.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-#remote_theme: zerostaticthemes/jekyll-serif-theme
+remote_theme: zerostaticthemes/jekyll-serif-theme
 plugins:
   - jekyll-feed
 
