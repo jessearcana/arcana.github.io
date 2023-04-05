@@ -25,7 +25,7 @@
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
   <!-- <script src="https://kit.fontawesome.com/d248c235a0.js" crossorigin="anonymous"></script> -->
 </head>
-
+{% include google-analytics.html %}
 <body class='page {{layout.bodyClass}}'>
   {% include main-menu-mobile.html %}
   <div id="wrapper" class="wrapper">
@@ -35,6 +35,6 @@
   {% include footer.html %}
   {% include sub-footer.html %}
   <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
-  {% include google-analytics.html %}
+
 </body>
 </html>
