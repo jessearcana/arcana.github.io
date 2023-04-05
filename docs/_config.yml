@@ -7,7 +7,7 @@ description: 'Data science and AI with an emphasis on integration, scale and hum
 # url: "http://arcana.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-google_analytics: "G-DML1QM0XS9"
+
 
 homepage:
   show_call_box: true
@@ -21,6 +21,7 @@ seo:
   meta_og_url: "https://arcana.com.au"
   meta_og_image: "https://arcana.com.au/images/mastery.png"
   meta_og_description: "Data science and AI with an emphasis on integration, scale and human centred design. Jesse Bugden has lead research, development and implementation on a wide range of projects such as; content processing, data analysis, natural language processing, full-text search and index, graph and the application of computer insights to augment human decision making. Leverage 23 years of experience and a group of highly skilled associates to solve your hardest problems."
+  google_analytics_id: "G-DML1QM0XS9"
 
 logo:
   mobile: "images/logo/logo.svg"
