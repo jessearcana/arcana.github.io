@@ -3,10 +3,22 @@
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
-    {% if site.data.contact.email %}
+    {% if site.data.contact.email_obfuscated %}
+    <script type="text/javascript" src="{{ '/assets/js/decodemail.js' | relative_url }}"></script>
+    <div class="call-email"><strong>Email: </strong>
+      <a class="eml-protected" href="#">{{ site.data.contact.email_obfuscated }}</a>
+    </div>
+    {% elsif site.data.contact.email %}
     <div class="call-email"><strong>Email: </strong>
       <a href="mailto:{{ .site.data.contact.email }}">
         {{ site.data.contact.email }}
+      </a>
+    </div>
+    {% endif %}
+    {% if site.data.contact.linkedin %}
+    <div class="call-linkedin">
+      <a href="{{ site.data.contact.linkedin }}">
+        <img alt="LinkedIn - {{site.data.contact.linkedin}}" src="/images/logo/linkedin.svg" /> {{site.data.contact.linkedin}}
       </a>
     </div>
     {% endif %}
