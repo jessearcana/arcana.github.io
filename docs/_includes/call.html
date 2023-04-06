@@ -4,7 +4,6 @@
         <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
     {% if site.data.contact.email_obfuscated %}
-    <script type="text/javascript" src="{{ '/assets/js/decodemail.js' | relative_url }}"></script>
     <div class="call-email"><strong>Email: </strong>
       <a class="eml-protected" href="#">{{ site.data.contact.email_obfuscated }}</a>
     </div>
