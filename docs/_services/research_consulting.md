@@ -1,6 +1,6 @@
 ---
 title: "Research Consulting"
-date: 2023-04--3T14:30:46+10:00
+date: 2023-04-11T10:09:57+09:30
 layout: service
 weight: 2
 tease: "If you're working on new features or capabilities you might have an unacceptable level of uncertainty around delivery or likelihood of success. Bring in a lateral thinker with a track record of seeing the critical flaws and identifying elegent solutions."

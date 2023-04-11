@@ -1,6 +1,7 @@
 ---
 title: Apex Arcana
 layout: home
+date: 2023-04-11T10:09:46+09:30
 home_banner_image: "images/widegraph-banner.png"
 home_banner_image_hide_mobile: true
 intro_image: "images/hands-graph.jpg"

@@ -6,9 +6,6 @@ description: 'Data and IT solutions for integration, scale and better human expe
 
 # url: "http://arcana.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
-
-
-
 homepage:
   show_call_box: true
 
@@ -42,8 +39,11 @@ sass:
   style: compact # possible values: nested expanded compact compressed
   precision: 10
 
+url: "https://arcana.com.au"
+
 plugins:
   - jekyll-environment-variables
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
