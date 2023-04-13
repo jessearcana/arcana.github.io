@@ -21,7 +21,7 @@ Best practice is a great starting point. We want to be cloud first, zero support
 
 ## Integrity ##
 
-Apex Arcana is built around the idea that highly skilled IT and data professionals shouldn't need to employ shady practices in order to make a living. Platform, cloud and vendor agnostic advice is the goal. By integrating best of breed components into a well considered solution, a true win-win can be achieved.
+Apex Arcana is built around the goal of providing platform, cloud and vendor agnostic advice. By integrating best of breed components into a well considered solution, a true win-win can be achieved.
 
 ## Deep knowledge ##
 
@@ -29,14 +29,14 @@ From old school on-prem Windows and Linux systems through to cloud services, rel
 
 ## Evidence based advice ##
 
-The best decisions are based on a combination of evaluating the data and deciding when to confirm theoretical expectations. If you need to conduct a research spike to de-risk a project or feature consider Apex Arcana either in scoping the work or fully outsourcing it. Setting up a test and exploring the real behaviour of complex systems is sometimes the best way to minimise costly and embarrasing failures which so often come near the end of complex data and IT stretegic implementations.
+The best decisions are based on a combination of evaluating the data and deciding when to confirm theoretical expectations. If you need to conduct a research spike to de-risk a project or feature consider Apex Arcana either in scoping the work or fully outsourcing it. Setting up a test and exploring the real behaviour of complex systems is sometimes the best way to minimise costly and embarrassing failures which so often come near the end of complex data and IT stretegic implementations.
 
 # Principal consultant #
 
-Jesse Bugden has lead research, development and implementation on a wide range of projects such as;
+Jesse Bugden (MBA) has lead research, development and implementation on a wide range of projects such as;
 content processing, data analysis, natural language processing, full-text search and index, graph and
 the application of computer insights to augment human decision making.
 
-Apex Arcana brings together a broad experience with the possibility to partner with other expert consultants, providers and vendors as guided by client requirements.
+Apex Arcana brings together a broad set of experience with the possibility to partner with other expert consultants, providers and vendors as guided by client requirements.
 
 ![Jesse Bugden MBA (Executive)](/images/jesse_square_730.jpg)
