@@ -26,13 +26,25 @@ logo:
   desktop_height: "50px"
 
 home: 
-  limit_services: 4
+  limit_services: 3
 
 collections:
   services:
     output: true
   team:
-    output: false
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
 
 sass:
   indentWidth: 4

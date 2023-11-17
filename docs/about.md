@@ -30,13 +30,3 @@ From old school on-prem Windows and Linux systems through to cloud services, rel
 ## Evidence based advice ##
 
 The best decisions are based on a combination of evaluating the data and deciding when to confirm theoretical expectations. If you need to conduct a research spike to de-risk a project or feature consider Apex Arcana either in scoping the work or fully outsourcing it. Setting up a test and exploring the real behaviour of complex systems is sometimes the best way to minimise costly and embarrassing failures which so often come near the end of complex data and IT stretegic implementations.
-
-# Principal consultant #
-
-Jesse Bugden (MBA) has lead research, development and implementation on a wide range of projects such as;
-content processing, data analysis, natural language processing, full-text search and index, graph and
-the application of computer insights to augment human decision making.
-
-Apex Arcana brings together a broad set of experience with the possibility to partner with other expert consultants, providers and vendors as guided by client requirements.
-
-![Jesse Bugden MBA (Executive)](/images/jesse_square_730.jpg)
